@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/google-analytics-playground/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/google-analytics-playground/static/js/main.38c6e859.chunk.js",
+    "main.js.map": "/google-analytics-playground/static/js/main.38c6e859.chunk.js.map",
+    "runtime-main.js": "/google-analytics-playground/static/js/runtime-main.67ff5142.js",
+    "runtime-main.js.map": "/google-analytics-playground/static/js/runtime-main.67ff5142.js.map",
+    "static/js/2.9e8d0185.chunk.js": "/google-analytics-playground/static/js/2.9e8d0185.chunk.js",
+    "static/js/2.9e8d0185.chunk.js.map": "/google-analytics-playground/static/js/2.9e8d0185.chunk.js.map",
+    "static/js/3.a6c7e5eb.chunk.js": "/google-analytics-playground/static/js/3.a6c7e5eb.chunk.js",
+    "static/js/3.a6c7e5eb.chunk.js.map": "/google-analytics-playground/static/js/3.a6c7e5eb.chunk.js.map",
+    "index.html": "/google-analytics-playground/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/google-analytics-playground/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9e8d0185.chunk.js.LICENSE.txt": "/google-analytics-playground/static/js/2.9e8d0185.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/google-analytics-playground/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ff5142.js",
+    "static/js/2.9e8d0185.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.38c6e859.chunk.js"
+  ]
+}
